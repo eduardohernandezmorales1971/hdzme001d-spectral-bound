@@ -1,0 +1,16 @@
+
+This folder contains three foundational documents related to the hdzme001d spectral bound for robust stability validation in uncertain linear systems:
+
+1. spectral-bound-english.pdf  
+   Published in 2025, this article presents a fast, algebraic spectral bound based on the Hermitian part of the nominal matrix and a structured norm deviation. Validated in over 30,000 simulations, it offers real-time applicability in embedded control, robotics, and energy systems.  
+   DOI: 10.5281/zenodo.17593139
+
+2. spectral-bound-spanish.pdf  
+   Spanish version of the article, adapted for regional dissemination and academic platforms in Latin America. It preserves the technical rigor while honoring the original thesis.  
+   DOI: 10.5281/zenodo.17593568
+
+3. thesis-original-2000.pdf  
+   Eduardo Hernández Morales’s professional thesis, presented at Instituto Tecnológico de Morelia in 2000. It introduces early spectral bounds for interval matrices and lays the groundwork for the hdzme001d formulation.  
+   DOI: 10.5281/zenodo.17593331
+
+These documents collectively represent the origin, evolution, and validation of a robust stability criterion with lasting impact in control theory.
